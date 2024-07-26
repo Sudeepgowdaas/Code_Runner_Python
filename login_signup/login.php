@@ -73,7 +73,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Log in - Code Playground</title>
+    <title>Log in - CodeCraftPro</title>
     <link rel="icon" type="image/x-icon" href="../assets/favicon-196.png" />
     <!-- Bootstrap CSS -->
     <link
@@ -99,11 +99,9 @@
             style="height: 45px"
             src="../assets/icon-rounded-192x192.png"
             alt="logo"
-          />Code Playground</a
+          />CodeCraftPro</a
         >
-        <a class="navbar-brand" style="color: white; font-size: 18px" href="adminlogin.php"
-          >Admin Login</a
-        >
+        
       </div>
     </nav>
     <!-- Login Form -->
@@ -152,7 +150,7 @@
             Log in
           </button>
         </form>
-        <p>New to Code Playground?<a href="register.php">Sign Up</a></p>
+        <p>New to CodeCraftPro?<a href="register.php">Sign Up</a></p>
       </div>
     </div>
     <!-- Bootstrap JS -->

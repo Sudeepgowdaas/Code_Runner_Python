@@ -1,6 +1,6 @@
 <?php
     
-    putenv("PATH=C:\Program Files\CodeBlocks\MinGW\bin");
+    putenv("PATH=C:\MinGW\bin");
 	$CC="gcc";
 	$out="a.exe";
 	$code=$_POST["code"];
